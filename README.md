@@ -1,2 +1,2 @@
-# CognoRise-Infotech
-House Price Prediction 
+# CognoRise-Infotech Tasks
+
